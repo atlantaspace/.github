@@ -3,4 +3,4 @@
 ### atlanta.space
 leading training software provider for 2 years.
 
-https://discord.gg/atn
+![Discord](https://img.shields.io/discord/1133441692196950101)
