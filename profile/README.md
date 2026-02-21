@@ -1,6 +1,6 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-### atlanta.space
+### radium.wtf
 leading training software provider for 2 years.
 
 ![discord](https://img.shields.io/discord/1133441692196950101?color=909090)
